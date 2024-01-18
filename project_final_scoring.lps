@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project_final_scoring.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="17" Y="3"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="menu_cond.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="49" Y="7"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manejo_arch_cond.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="4"/>
+        <CursorPos X="16" Y="24"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="crear_arbol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="47"/>
+        <CursorPos X="60" Y="52"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="abcm.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="2"/>
+        <CursorPos X="6" Y="31"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="crear_arbol_dni.pas"/>
+        <UnitName Value="crear_arbol_DNI"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="63" Y="20"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="73" Column="28" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="52" Column="55" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="64" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="54" Column="9" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="30" Column="14" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="60" Column="19" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="68" Column="12" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="54" Column="15" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="60" Column="18" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="66" Column="7" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="65" Column="14" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="70" Column="5" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="67" Column="5" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="64" Column="26" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="60" Column="19" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="56" Column="11" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="52" Column="54" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="60" Column="18" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="64" Column="26" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="52" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="64" Column="7" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="93" Column="24" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="64" Column="7" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="68" Column="14" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="64" Column="3" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="68" Column="23" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="64" Column="19" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="57" Column="4" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="15" Column="21" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="crear_arbol.pas"/>
+        <Caret Line="93" Column="48" TopLine="71"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
